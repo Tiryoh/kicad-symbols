@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D36V28F12
+D Pololu 12V, 2.4A Step-Down Voltage Regulator D36V28F3, typically support continuous output currents between 2 A and 3.3 A
+K D36V28Fx, 36V
+F https://www.pololu.com/product/3782
+$ENDCMP
+#
+$CMP D36V28F3
+D Pololu 3.3V, 3.6A Step-Down Voltage Regulator D36V28F3, typically support continuous output currents between 3.2 A and 4.5 A
+K D36V28Fx, 36V
+F https://www.pololu.com/product/3782
+$ENDCMP
+#
+$CMP D36V28F5
+D Pololu 5V, 3.2A Step-Down Voltage Regulator D36V28F5, typically support continuous output currents between 3.2 A and 4.5 A
+K D36V28Fx, 36V
+F https://www.pololu.com/product/3782
+$ENDCMP
+#
+$CMP OKL-T_6-W12N-C
+D 6A Step-Down DC/DC-Regulator
+K dc-dc murata Step-Down DC/DC-Regulator
+F https://power.murata.com/pub/data/power/okl-t6-w12.pdf
+$ENDCMP
+#
+#End Doc Library
